@@ -45,4 +45,4 @@ The dashboard is built using **Power BI** and leverages interactive visuals for 
 
 ## 👤 Author  
 **Balaji Muppuri**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/balaji-muppuri-345318339/) 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/balaji-muppuri/) 
